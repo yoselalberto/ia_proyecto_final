@@ -1,0 +1,136 @@
+Marca,Nombre del Producto,Color,Peso,Pantalla,Cámara trasera,Cámara frontal,Procesador,RAM,Memoria Interna,Sistema Operativo,Tecnología,Precio
+Samsung,Galaxy Z Fold2,Negro,"0.282,","AMOLED,",12,10,"Qualcomm1,",12,256,"Android 10,","2G/3G/4G/4GLTE/5G,",46799
+Samsung,Galaxy Z Fold2,Bronce,"0.282,","AMOLED,",12,10,"Qualcomm1,",12,256,"Android 10,","2G/3G/4G/4GLTE/5G,",46799
+Apple,iPhone 11 Pro Max,Verde Medianoche,"0.272,","OLED,",12,12,"Apple1,",4,512,"Apple iOS 13,","4GLTE,",33999
+Apple,iPhone 11 Pro Max,Gris Espacial,"0.272,","OLED,",12,12,"Apple1,",4,512,"Apple iOS 13,","4GLTE,",33999
+Apple,"iPhone 11 Pro Max,",Plata,"0.272,","OLED,",12,12,"Apple1,",4,512,"Apple iOS 13,","4GLTE,",33999
+Apple,"iPhone 11 Pro Max,",Dorado,"0.272,","OLED,",12,12,"Apple1,",4,512,"Apple iOS 13,","4GLTE,",33999
+Apple,"iPhone 11 Pro,",Verde Medianoche,"0.252,","OLED,",12,12,"Apple1,",4,512,"Apple iOS 13,","4GLTE,",31279
+Apple,"iPhone 11 Pro,",Plata,"0.252,","OLED,",12,12,"Apple1,",4,512,"Apple iOS 13,","4GLTE,",31279
+Apple,"iPhone 11 Pro,",Dorado,"0.252,","OLED,",12,12,"Apple1,",4,512,"Apple iOS 13,","4GLTE,",31279
+Apple,"iPhone 11 Pro,",Gris,"0.252,","OLED,",12,12,"Apple1,",4,512,"Apple iOS 13,","4GLTE,",31279
+Samsung,"Galaxy Note 20 Ultra,",Bronce,"0.302,","AMOLED,",12,10,"Qualcomm1,",8,256,"Android 10,","4G/GSM,",30599
+Samsung,"Galaxy Z Flip,",Morado,"0.183,","Super AMOLED,",12,10,"Qualcomm1,",8,256,"Android 10,","2G/3G/4G/4GLTE/GSM,",29699
+Apple,"iPhone 11 Pro Max,",Plata,"0.272,","OLED,",12,12,"Apple1,",4,256,"Apple iOS 13,","4GLTE,",28990
+Apple,"iPhone 11 Pro Max,",Verde Medianoche,"0.272,","OLED,",12,12,"Apple1,",4,256,"Apple iOS 13,","4GLTE,",28990
+Apple,"iPhone 11 Pro Max,",Dorado,"0.272,","OLED,",12,12,"Apple1,",4,256,"Apple iOS 13,","4GLTE,",28990
+Apple,"iPhone 11 Pro Max,",Gris Espacial,"0.272,","OLED,",12,12,"Apple1,",4,256,"Apple iOS 13,","4GLTE,",28990
+"Samsung,","Galaxy Note 20 Ultra,",Bronce,"0.312,","AMOLED,",12,10,"Qualcomm1,",8,256,"Android 10,","4G/GSM,",25990
+"Samsung,","Galaxy Note 20 Ultra,",Negro,"0.312,","AMOLED,",12,10,"Qualcomm1,",8,256,"Android 10,","4G/GSM,",25990
+"Apple,","iPhone 11 Pro,",Verde Medianoche,"0.252,","OLED,",12,12,"Apple1,",4,256,"Apple iOS 13,","4GLTE,",25159
+"Apple,","iPhone 11 Pro,",Dorado,"0.252,","OLED,",12,12,"Apple1,",4,256,"Apple iOS 13,","4GLTE,",24990
+"Apple,","iPhone 11 Pro,",Gris,"0.252,","OLED,",12,12,"Apple1,",4,256,"Apple iOS 13,","4GLTE,",24990
+"Apple,","iPhone 11 Pro,",Verde Medianoche,"0.252,","OLED,",12,12,"Apple1,",4,256,"Apple iOS 13,","4GLTE,",24990
+"Apple,","iPhone 11 Pro,",Plata,"0.252,","OLED,",12,12,"Apple1,",4,256,"Apple iOS 13,","4GLTE,",24490
+"Apple,","iPhone XS Max,",Dorado,"0.308,","Super Retina,",12,7,"Apple1,",4,512,"Apple iOS 12,","4GLTE,",24303
+"Apple,","iPhone XS Max,",Plata,"0.308,","Super Retina,",12,7,"Apple1,",4,512,"Apple iOS 12,","4GLTE,",24303
+"Samsung,","Galaxy Note 20 Mystic,",Bronce,"0.312,","AMOLED,",12,10,"Qualcomm1,",8,256,"Android 10,","4G/GSM,",24299
+"Apple,","iPhone 11 Pro,",Plata,"0.252,","OLED,",12,12,"Apple1,",4,64,"Apple iOS 13,","4GLTE,",23799
+"Apple,","iPhone 11 Pro,",Verde Medianoche,"0.252,","OLED,",12,12,"Apple1,",4,64,"Apple iOS 13,","4GLTE,",23799
+"Apple,","iPhone 11 Pro,",Dorado,"0.252,","OLED,",12,12,"Apple1,",4,64,"Apple iOS 13,","4GLTE,",23799
+"Samsung,","Galaxy Note 20 Mystic,",Bronce,"0.312,","AMOLED,",12,10,"Qualcomm1,",8,256,"Android 10,","4G/GSM,",22990
+"Samsung,","Galaxy Note 20 Mystic,",Bronce,"0.312,","AMOLED,",12,10,"Qualcomm1,",8,256,"Android 10,","4G/GSM,",22990
+"Apple,","iPhone 11 Pro,",Plata,"0.252,","OLED,",12,12,"Apple1,",4,256,"Apple iOS 13,","4GLTE,",22990
+"Apple,","iPhone 11 Pro,",Space Gray,"0.252,","OLED,",12,12,"Apple1,",4,256,"Apple iOS 13,","4GLTE,",22990
+"Samsung,","Galaxy S20 Plus,",Gris,"0.186,","AMOLED,",10,10,"Qualcomm1,",8,128,"Android 10,","4G,",22499
+"Samsung,","Galaxy S20 Plus,",Azul,"0.186,","AMOLED,",10,10,"Qualcomm1,",8,128,"Android 10,","4G,",22499
+"Samsung,","Galaxy S20 Plus,",Plata,"0.186,","AMOLED,",10,10,"Qualcomm1,",8,128,"Android 10,","4G,",22499
+"Apple,","iPhone XS,",Dorado,"0.308,","Super Retina,",12,7,"Apple1,",4,512,"Apple iOS 12,","4GLTE,",22247
+"Apple,","iPhone XS,",Gris Espacial,"0.308,","Super Retina,",12,7,"Apple1,",4,512,"Apple iOS 12,","4GLTE,",22247
+"Apple,","iPhone XS,",Plata,"0.308,","Super Retina,",12,7,"Apple1,",4,512,"Apple iOS 12,","4GLTE,",22247
+"Apple,","iPhone 11 Pro,",Verde Medianoche,"0.252,","OLED,",12,12,"Apple1,",4,64,"Apple iOS 13,","4GLTE,",22099
+"Samsung,","Galaxy Note 20 Mystic,",Gris,"0.312,","AMOLED,",12,10,"Qualcomm1,",8,256,"Android 10,","4G/GSM,",20990
+"Samsung,","Galaxy Note 20 Mystic,",Gris,"0.332,","AMOLED,",12,10,"Qualcomm1,",8,256,"Android 10,","4G/GSM,",19990
+"Samsung,","Galaxy S20 Plus,",Azul,"0.186,","AMOLED,",10,10,"Qualcomm1,",8,256,"Android 10,","4G/GSM,",19990
+"Samsung,","Galaxy Note 20 Mystic,",Verde,"0.312,","AMOLED,",12,10,"Qualcomm1,",8,256,"Android 10,","4G/GSM,",19990
+"Samsung,","Galaxy S20 Plus,",Gris,"0.186,","AMOLED,",10,10,"Qualcomm1,",8,128,"Android 10,","4G,",19990
+"Samsung,","Galaxy Note 20 Mystic,",Gris,"0.312,","AMOLED,",12,10,"Qualcomm1,",8,256,"Android 10,","4G/GSM,",19990
+"Apple,","iPhone 11 Pro,",Plata,"0.252,","OLED,",12,12,"Apple1,",4,64,"Apple iOS 13,","4GLTE,",19990
+"Apple,","iPhone XS Max,",Gris Espacial,"0.308,","Super Retina,",12,7,"Apple1,",4,256,"Apple iOS 12,","4GLTE,",17990
+"Apple,","iPhone XS,",Oro,"0.308,","Super Retina,",12,7,"Apple1,",4,64,"Apple iOS 12,","4GLTE,",17990
+"Apple,","iPhone XS Max,",Plata,"0.308,","Super Retina,",12,7,"Apple1,",4,256,"Apple iOS 12,","4GLTE,",17990
+"Apple,","iPhone XS,",Dorado,"0.308,","Super Retina,",12,7,"Apple1,",4,256,"Apple iOS 12,","4GLTE,",17599
+"Apple,","iPhone XS,",Negro,"0.308,","Super Retina,",12,7,"Apple1,",4,256,"Apple iOS 12,","4GLTE,",17599
+"Samsung,","Galaxy Note 10,",Plata,"0.312,","AMOLED,",16,10,"Samsung Exynos,",12,256,"Android 9,","4G,",16999
+"Apple,","iPhone XS,",Gris Espacial,"0.308,","Super Retina,",12,7,"Apple1,",4,256,"Apple iOS 12,","4GLTE,",16990
+"Apple,","iPhone XS,",Plata,"0.308,","Super Retina,",12,7,"Apple1,",4,256,"Apple iOS 12,","4GLTE,",16990
+"Apple,","iPhone XS Max,",Plata,"0.308,","Super Retina,",12,7,"Apple1,",4,64,"Apple iOS 12,","4GLTE,",15990
+"Samsung,","Galaxy S20,",Gris,"0.186,","AMOLED,",16,10,"Qualcomm1,",8,128,"Android 10,","5G,",15990
+"Apple,","iPhone XS Max,",Gris,"0.308,","Super Retina,",12,7,"Apple1,",4,64,"Apple iOS 12,","4GLTE,",15990
+"Apple,","iPhone XS Max,",Dorado,"0.308,","Super Retina,",12,7,"Apple1,",4,64,"Apple iOS 12,","4GLTE,",15990
+"Apple,","iPhone XS,",Gris,"0.300,","Super Retina,",12,7,"Apple1,",4,64,"Apple iOS 12,","4GLTE,",15655
+"Apple,","iPhone XS,",Plata,"0.300,","Super Retina,",12,7,"Apple1,",4,64,"Apple iOS 12,","4GLTE,",15655
+"Samsung,","Galaxy S20,",Violeta,"0.319,","AMOLED,",16,10,"Qualcomm1,",6,128,"Android 10,","4G,",15299
+"Motorola,","Motorola Edge,",Rojo,"0.190,","OLED,",64,25,"Qualcomm1,",6,128,"Android 10,","3G/4G/GSM,",14999
+"Apple,","iPhone XS,",Gris Espacial,"0.300,","Super Retina,",12,7,"Apple1,",4,64,"Apple iOS 12,","4GLTE,",14990
+"Apple,","iPhone XS,",Plata,"0.300,","Super Retina,",12,7,"Apple1,",4,64,"Apple iOS 12,","4GLTE,",14990
+"Samsung,","Galaxy Note 10 Lite,",Rojo,"0.199,","Super AMOLED Plus,",32,32,"Qualcomm2,",6,128,"Android 8,","4G/4GLTE/GSM/LTE,",11999
+"Samsung,","Galaxy Note 10 Lite,",Plata,"0.199,","Super AMOLED,",12,32,"Qualcomm2,",6,128,"Android 8,","4G/4GLTE/GSM/LTE,",11999
+"Apple,","iPhone 8,",Gris,"0.150,","Retina,",7,12,"Apple2,",4,256,"Apple iOS 11,","4G,",11599
+"Samsung,","Galaxy Note 9,",Azul,"0.212,","Super AMOLED,",12,8,"Qualcomm2,",6,128,"Android 8,","4GLTE,",10990
+"Samsung,","Galaxy A71,",Azul,"0.179,","Super AMOLED Plus,",32,32,"Qualcomm2,",6,128,"Android 10,","4GLTE,",9999
+"Samsung,","Galaxy A71,",Plata,"0.179,","Super AMOLED Plus,",32,32,"Qualcomm2,",6,128,"Android 10,","4GLTE,",9999
+"Samsung,","Galaxy A71,",Negro,"0.179,","Super AMOLED Plus,",32,32,"Qualcomm2,",6,128,"Android 10,","4GLTE,",9999
+"Xiaomi,","M9 SE,",Azul,"0.195,","Super AMOLED,",48,20,Qualcomm Snapdragon1,6,128,"Android 9,","4GLTE,",8999
+"Samsung,","Galaxy A71,",Negro,"0.179,","Super AMOLED Plus,",32,32,"Qualcomm2,",6,128,"Android 10,","4GLTE,",8990
+"Samsung,","Galaxy A71,",Plata,"0.179,","Super AMOLED Plus,",32,32,"Qualcomm2,",6,128,"Android 10,","4GLTE,",8990
+"Samsung,","Galaxy A71,",Negro,"0.179,","Super AMOLED Plus,",32,32,"Qualcomm2,",6,128,"Android 10,","4GLTE,",8590
+"Samsung,","Galaxy A51,",Blanco,"0.215,","Super AMOLED,",32,32,"Qualcomm2,",4,128,"Android 8,","4GLTE,",7999
+"Samsung,","Galaxy A51,",Blanco,"0.215,","Super AMOLED,",32,32,"Qualcomm2,",4,128,"Android 8,","4GLTE,",7999
+"Huawei,","Honor 20,",Azul,"0.233,","IPS-LCD,",48,32,"Qualcomm2,",6,128,"Android 9,","4GLTE,",7999
+"Huawei,","Honor V10,",Negro,"0.216,","IPS-LCD,",20,13,"Qualcomm2,",6,128,"Android 8,","4GLTE,",7990
+"Motorola,","Moto One Zoom,",Bronce,"0.240,","OLED,",48,25,Qualcomm Snapdragon1,4,128,"Android 9,","4GLTE,",7490
+"Motorola,","Moto One Zoom,",Morado,"0.240,","OLED,",48,25,Qualcomm Snapdragon1,4,128,"Android 9,","4GLTE,",7490
+"Samsung,","Galaxy A31,",Negro,"0.185,","AMOLED,",48,20,"Qualcomm2,",4,128,"Android One,","2G/3G/LTE,",6999
+"TCL,","10L T770B,",Blanco,"0.260,","LCD,",16,48,"Qualcomm2,",6,32,"Android 9,","4G,",6590
+"Motorola,","Moto One Zoom,",Gris,"0.240,","OLED,",48,25,Qualcomm Snapdragon1,4,128,"Android 9,","4GLTE,",6590
+"Xiaomi,","Redmi Note 9,",Gris Medianoche,"0.199,","Super AMOLED,",48,13,"MediaTek1,",4,128,"Android 10,","3G/4G/GSM,",6499
+"Samsung,","Galaxy A31,",Negro,"0.185,","AMOLED,",48,20,"Qualcomm2,",4,128,"Android One,","3G/LTE,",6499
+"Samsung,","Galaxy A31,",Azul,"0.185,","AMOLED,",48,20,"Qualcomm2,",4,128,"Android One,","3G/LTE,",6499
+"Samsung,","Galaxy A31,",Azul,"0.185,","AMOLED,",48,20,"Qualcomm2,",4,128,"Android One,","3G/LTE,",6499
+"Xiaomi,","Redmi Note 9,",Blanco Polar,"0.199,","Super AMOLED,",48,13,"MediaTek1,",4,128,"Android 10,","3G/4G/GSM,",6499
+"Motorola,","Moto One Vision,",Azul,"0.270,","IPS-LCD,",48,25,Qualcomm Snapdragon1,4,128,"Android 9,","4GLTE,",6499
+"Motorola,","Moto One Hyper,",Azul,"0.198,","IPS-LCD,",32,25,Qualcomm Snapdragon1,4,128,"Android 10,","4G,",6490
+"Motorola,","Moto One Hyper,",Violeta,"0.198,","IPS-LCD,",32,25,Qualcomm Snapdragon1,4,128,"Android 10,","4G,",6490
+"Samsung,","Galaxy A21s,",Negro,"0.192,","TFT-LCD,",48,13,"Qualcomm2,",4,64,"Android 10,","4GLTE,",5999
+"Samsung,","Galaxy A30s,",Blanco,"0.188,","Super AMOLED,",5,16,"Qualcomm2,",4,32,"Android One,","4GLTE,",5999
+"Samsung,","Galaxy A21s,",Rojo,"0.192,","TFT-LCD,",48,13,"Qualcomm2,",4,64,"Android 10,","4GLTE,",5999
+"Samsung,","Galaxy A21s,",Rojo,"0.192,","TFT-LCD,",48,13,"Qualcomm2,",4,64,"Android 10,","4GLTE,",5999
+"Samsung,","Galaxy A21s,",Negro,"0.192,","TFT-LCD,",48,13,"Qualcomm2,",4,64,"Android 10,","4GLTE,",5999
+"Samsung,","Galaxy A30s,",Blanco,"0.188,","Super AMOLED,",5,16,"Qualcomm2,",4,32,"Android One,","4GLTE,",5999
+"Samsung,","Galaxy A21s,",Blanco,"0.192,","TFT-LCD,",48,13,"Qualcomm2,",4,64,"Android 10,","4GLTE,",5999
+"Huawei,","Honor 9X,",Azul,"0.192,","TFT-LCD,",20,16,"ARM,",6,128,"Android 9,","4GLTE,",5999
+"Motorola,","Moto One Vision,",Azul,"0.270,","IPS-LCD,",48,25,Qualcomm Snapdragon1,4,128,"Android 9,","4GLTE,",5990
+"Motorola,","Moto One Vision,",Moka,"0.270,","IPS-LCD,",48,25,Qualcomm Snapdragon1,4,128,"Android 9,","4GLTE,",5990
+"Samsung,","Galaxy A30s,",Negro,"0.188,","Super AMOLED,",5,16,"Qualcomm2,",4,32,"Android One,","4GLTE,",5490
+"Samsung,","Galaxy A30s,",Blanco,"0.188,","Super AMOLED,",5,16,"Qualcomm2,",4,32,"Android One,","4GLTE,",5490
+"Motorola,","Moto One Action,",Gris,"0.230,","IPS-LCD,",12,32,Qualcomm Snapdragon2,4,128,"Android 9,","4GLTE,",5490
+"Motorola,","Moto One Action,",Blanco,"0.230,","IPS-LCD,",12,32,Qualcomm Snapdragon2,4,128,"Android 9,","4GLTE,",5490
+"Motorola,","Moto G9 Play,",Azul,"0.200,","TFT-LCD,",48,25,"Qualcomm,",4,64,"Android 10,","4G,",4999
+"Huawei,","Honor 9X Lite,",Negro,"0.192,","TFT-LCD,",48,8,"ARM,",4,128,"Android 9,","4GLTE,",4999
+"Motorola,","Moto G8 Power,",Gris,"0.188,","TFT-LCD,",16,48,"Qualcomm3,",4,32,"Android 8,","4GLTE,",4999
+"Motorola,","Moto G8 Power,",Azul,"0.188,","TFT-LCD,",16,48,"Qualcomm3,",4,32,"Android 8,","4GLTE,",4999
+"Huawei,","Honor 9X Lite,",Verde,"0.192,","TFT-LCD,",48,8,"ARM,",4,128,"Android 9,","4GLTE,",4999
+"Samsung,","Galaxy A20s,",Azul,"0.185,","TFT-LCD,",13,8,"Qualcomm3,",4,32,"Android 9,","4GLTE,",4999
+"Huawei,","Honor 9X Lite,",Negro,"0.192,","TFT-LCD,",48,8,"ARM,",4,128,"Android 9,","4GLTE,",4999
+"Motorola,","Moto G8 Plus,",Azul,"0.188,","TFT-LCD,",48,25,"Qualcomm3,",4,64,"Android 9,","4GLTE,",4990
+"Samsung,","Galaxy A11,",Negro,"0.110,","AMOLED,",13,8,"Qualcomm3,",3,48,"Android 10,","3G/LTE,",4949
+"Samsung,","Galaxy A11,",Blanco,"0.110,","AMOLED,",13,8,"Qualcomm3,",3,48,"Android 10,","3G/LTE,",4949
+"Samsung,","Galaxy A20s,",Rojo,"0.185,","Super AMOLED,",13,8,"Qualcomm3,",4,32,"Android 9,","4GLTE,",4769
+"Motorola,","Moto G8 Plus,",Rojo Rubí,"0.188,","TFT-LCD,",48,25,"Qualcomm3,",4,64,"Android 9,","4GLTE,",4590
+"Samsung,","Galaxy A11,",Negro,"0.110,","AMOLED,",13,8,"Qualcomm3,",3,32,"Android 10,","3G/LTE,",4490
+"Samsung,","Galaxy A20s,",Negro,"0.185,","Super AMOLED,",13,8,"Qualcomm3,",4,32,"Android 9,","4GLTE,",4190
+"Nokia,","Nokia 5.1 Plus,",Azul,"0.169,","LCD,",13,8,"MediaTek1,",3,32,"Android 9,","4GLTE,",3999
+"Samsung,","Galaxy J8,",Negro,"0.179,","LCD,",16,16,"Qualcomm3,",3,32,"Android 8,","4GLTE,",3999
+"Huawei,","Honor 8A,",Verde,"0.176,","LCD,",13,8,"MediaTek1,",2,32,"Android 9,","4GLTE,",3999
+"Nokia,","Nokia 5.1 Plus,",Negro,"0.169,","LCD,",13,8,"MediaTek1,",3,32,"Android 9,","4GLTE,",3999
+"Samsung,","Galaxy A11,",Blanco,"0.110,","AMOLED,",13,8,"Qualcomm3,",3,32,"Android 10,","3G/LTE,",3990
+"Motorola,","Moto G8 Play,",Gris,"0.188,","TFT-LCD,",8,13,"MediaTek2,",2,32,"Android 9,","4GLTE,",3490
+"Huawei,","Honor 8A,",Verde,"0.176,","LCD,",8,13,"MediaTek2,",2,32,"Android 9,","4GLTE,",3299
+"Motorola,","Moto E6 Plus,",Azul,"0.149,","LCD,",13,8,"Qualcomm3,",2,32,"Android 8,","4GLTE,",2990
+"Motorola,","Moto E6 Play,",Negro,"0.190,","IPS-LCD,",13,8,"Qualcomm3,",1,16,"Android 8,","4GLTE,",2499
+"Motorola,","Moto G8 Play,",Gris,"0.188,","TFT-LCD,",8,13,"MediaTek2,",2,32,"Android 9,","4GLTE,",3490
+"Motorola,","Moto E6 Plus,",Azul,"0.149,","LCD,",13,8,"MediaTek2,",2,32,"Android 8,","4GLTE,",2990
+"Huawei,","Honor 8A,",Verde,"0.176,","LCD,",13,8,"MediaTek2,",2,32,"Android 9,","4GLTE,",3299
+"Motorola,","Moto E6 Play,",Azul,"0.190,","IPS-LCD,",13,5,"Qualcomm3,",1,16,"Android 8,","4GLTE,",2499
+"Motorola,","Moto E6 Play,",Negro,"0.190,","IPS-LCD,",13,5,"Qualcomm3,",1,16,"Android 8,","4GLTE,",2499
