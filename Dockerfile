@@ -9,3 +9,6 @@ USER $NB_UID
 
 # extra libraries
 RUN pip install pyjanitor==0.20.10  
+
+# change working directory
+WORKDIR /work
