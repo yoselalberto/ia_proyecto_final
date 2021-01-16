@@ -11,4 +11,4 @@ USER $NB_UID
 RUN pip install pyjanitor==0.20.10  
 
 # change working directory
-WORKDIR /work
+# WORKDIR /home/jovyan/work
