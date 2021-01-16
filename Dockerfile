@@ -4,12 +4,8 @@ LABEL maintainer="Alberto Jaimes <yoselerratil@gmail.com>"
 
 # update repositories
 USER root
-RUN  apt-get update
-RUN  pip install --upgrade pip 
-
+RUN  apt-get update && pip install --upgrade pip 
 USER $NB_UID
 
 # extra libraries
-RUN pip install pyjanitor==0.20.10
-
-
+RUN pip install pyjanitor==0.20.10  
