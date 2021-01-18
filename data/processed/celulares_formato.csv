@@ -1,0 +1,128 @@
+,Nombre,Marca,Color,Sistema operativo,Memoria,Ram,Precio,Camara Trasera,Camara Frontal,Pantalla,Procesador,Tecnologia,Peso
+0,Galaxy Z Fold2,Samsung,Negro,Android 10,256,12,46799,12,10,AMOLED,2G/3G/4G/4GLTE/5G,Qualcomm,282.0
+1,Galaxy Z Fold2,Samsung,Bronce,Android 10,256,12,46799,12,10,AMOLED,2G/3G/4G/4GLTE/5G,Qualcomm,282.0
+2,iPhone 11 Pro Max,Apple,Verde Medianoche,Apple iOS 13,512,4,33999,12,12,OLED,4GLTE,Apple,272.0
+3,iPhone 11 Pro Max,Apple,Gris Espacial,Apple iOS 13,512,4,33999,12,12,OLED,4GLTE,Apple,272.0
+4,iPhone 11 Pro Max,Apple,Plata,Apple iOS 13,512,4,33999,12,12,OLED,4GLTE,Apple,272.0
+5,iPhone 11 Pro Max,Apple,Dorado,Apple iOS 13,512,4,33999,12,12,OLED,4GLTE,Apple,272.0
+6,iPhone 11 Pro,Apple,Verde Medianoche,Apple iOS 13,512,4,31279,12,12,OLED,4GLTE,Apple,252.0
+7,iPhone 11 Pro,Apple,Plata,Apple iOS 13,512,4,31279,12,12,OLED,4GLTE,Apple,252.0
+8,iPhone 11 Pro,Apple,Dorado,Apple iOS 13,512,4,31279,12,12,OLED,4GLTE,Apple,252.0
+9,iPhone 11 Pro,Apple,Gris,Apple iOS 13,512,4,31279,12,12,OLED,4GLTE,Apple,252.0
+10,Galaxy Note 20 Ultra,Samsung,Bronce,Android 10,256,8,30599,12,10,AMOLED,4G/GSM,Qualcomm,302.0
+11,Galaxy Z Flip,Samsung,Morado,Android 10,256,8,29699,12,10,Super AMOLED,2G/3G/4G/4GLTE/GSM,Qualcomm,183.0
+12,iPhone 11 Pro Max,Apple,Plata,Apple iOS 13,256,4,28990,12,12,OLED,4GLTE,Apple,272.0
+13,iPhone 11 Pro Max,Apple,Verde Medianoche,Apple iOS 13,256,4,28990,12,12,OLED,4GLTE,Apple,272.0
+14,iPhone 11 Pro Max,Apple,Dorado,Apple iOS 13,256,4,28990,12,12,OLED,4GLTE,Apple,272.0
+15,iPhone 11 Pro Max,Apple,Gris Espacial,Apple iOS 13,256,4,28990,12,12,OLED,4GLTE,Apple,272.0
+16,Galaxy Note 20 Ultra,Samsung,Bronce,Android 10,256,8,25990,12,10,AMOLED,4G/GSM,Qualcomm,312.0
+17,Galaxy Note 20 Ultra,Samsung,Negro,Android 10,256,8,25990,12,10,AMOLED,4G/GSM,Qualcomm,312.0
+18,iPhone 11 Pro,Apple,Verde Medianoche,Apple iOS 13,256,4,25159,12,12,OLED,4GLTE,Apple,252.0
+19,iPhone 11 Pro,Apple,Dorado,Apple iOS 13,256,4,24990,12,12,OLED,4GLTE,Apple,252.0
+20,iPhone 11 Pro,Apple,Gris,Apple iOS 13,256,4,24990,12,12,OLED,4GLTE,Apple,252.0
+21,iPhone 11 Pro,Apple,Verde Medianoche,Apple iOS 13,256,4,24990,12,12,OLED,4GLTE,Apple,252.0
+22,iPhone 11 Pro,Apple,Plata,Apple iOS 13,256,4,24490,12,12,OLED,4GLTE,Apple,252.0
+23,iPhone XS Max,Apple,Dorado,Apple iOS 12,512,4,24303,12,7,Super Retina,4GLTE,Apple,308.0
+24,iPhone XS Max,Apple,Plata,Apple iOS 12,512,4,24303,12,7,Super Retina,4GLTE,Apple,308.0
+25,Galaxy Note 20 Mystic,Samsung,Bronce,Android 10,256,8,24299,12,10,AMOLED,4G/GSM,Qualcomm,312.0
+26,iPhone 11 Pro,Apple,Plata,Apple iOS 13,64,4,23799,12,12,OLED,4GLTE,Apple,252.0
+27,iPhone 11 Pro,Apple,Verde Medianoche,Apple iOS 13,64,4,23799,12,12,OLED,4GLTE,Apple,252.0
+28,iPhone 11 Pro,Apple,Dorado,Apple iOS 13,64,4,23799,12,12,OLED,4GLTE,Apple,252.0
+29,Galaxy Note 20 Mystic,Samsung,Bronce,Android 10,256,8,22990,12,10,AMOLED,4G/GSM,Qualcomm,312.0
+30,iPhone 11 Pro,Apple,Plata,Apple iOS 13,256,4,22990,12,12,OLED,4GLTE,Apple,252.0
+31,iPhone 11 Pro,Apple,Space Gray,Apple iOS 13,256,4,22990,12,12,OLED,4GLTE,Apple,252.0
+32,Galaxy S20 Plus,Samsung,Gris,Android 10,128,8,22499,10,10,AMOLED,4G,Qualcomm,186.00000000000003
+33,Galaxy S20 Plus,Samsung,Azul,Android 10,128,8,22499,10,10,AMOLED,4G,Qualcomm,186.00000000000003
+34,Galaxy S20 Plus,Samsung,Plata,Android 10,128,8,22499,10,10,AMOLED,4G,Qualcomm,186.00000000000003
+35,iPhone XS,Apple,Dorado,Apple iOS 12,512,4,22247,12,7,Super Retina,4GLTE,Apple,308.0
+36,iPhone XS,Apple,Gris Espacial,Apple iOS 12,512,4,22247,12,7,Super Retina,4GLTE,Apple,308.0
+37,iPhone XS,Apple,Plata,Apple iOS 12,512,4,22247,12,7,Super Retina,4GLTE,Apple,308.0
+38,iPhone 11 Pro,Apple,Verde Medianoche,Apple iOS 13,64,4,22099,12,12,OLED,4GLTE,Apple,252.0
+39,Galaxy Note 20 Mystic,Samsung,Gris,Android 10,256,8,20990,12,10,AMOLED,4G/GSM,Qualcomm,312.0
+40,Galaxy Note 20 Mystic,Samsung,Gris,Android 10,256,8,19990,12,10,AMOLED,4G/GSM,Qualcomm,332.0
+41,Galaxy S20 Plus,Samsung,Azul,Android 10,256,8,19990,10,10,AMOLED,4G/GSM,Qualcomm,186.00000000000003
+42,Galaxy Note 20 Mystic,Samsung,Verde,Android 10,256,8,19990,12,10,AMOLED,4G/GSM,Qualcomm,312.0
+43,Galaxy S20 Plus,Samsung,Gris,Android 10,128,8,19990,10,10,AMOLED,4G,Qualcomm,186.00000000000003
+44,Galaxy Note 20 Mystic,Samsung,Gris,Android 10,256,8,19990,12,10,AMOLED,4G/GSM,Qualcomm,312.0
+45,iPhone 11 Pro,Apple,Plata,Apple iOS 13,64,4,19990,12,12,OLED,4GLTE,Apple,252.0
+46,iPhone XS Max,Apple,Gris Espacial,Apple iOS 12,256,4,17990,12,7,Super Retina,4GLTE,Apple,308.0
+47,iPhone XS,Apple,Oro,Apple iOS 12,64,4,17990,12,7,Super Retina,4GLTE,Apple,308.0
+48,iPhone XS Max,Apple,Plata,Apple iOS 12,256,4,17990,12,7,Super Retina,4GLTE,Apple,308.0
+49,iPhone XS,Apple,Dorado,Apple iOS 12,256,4,17599,12,7,Super Retina,4GLTE,Apple,308.0
+50,iPhone XS,Apple,Negro,Apple iOS 12,256,4,17599,12,7,Super Retina,4GLTE,Apple,308.0
+51,Galaxy Note 10,Samsung,Plata,Android 9,256,12,16999,16,10,AMOLED,4G,Samsung,312.0
+52,iPhone XS,Apple,Gris Espacial,Apple iOS 12,256,4,16990,12,7,Super Retina,4GLTE,Apple,308.0
+53,iPhone XS,Apple,Plata,Apple iOS 12,256,4,16990,12,7,Super Retina,4GLTE,Apple,308.0
+54,iPhone XS Max,Apple,Plata,Apple iOS 12,64,4,15990,12,7,Super Retina,4GLTE,Apple,308.0
+55,Galaxy S20,Samsung,Gris,Android 10,128,8,15990,16,10,AMOLED,5G,Qualcomm,186.00000000000003
+56,iPhone XS Max,Apple,Gris,Apple iOS 12,64,4,15990,12,7,Super Retina,4GLTE,Apple,308.0
+57,iPhone XS Max,Apple,Dorado,Apple iOS 12,64,4,15990,12,7,Super Retina,4GLTE,Apple,308.0
+58,iPhone XS,Apple,Gris,Apple iOS 12,64,4,15655,12,7,Super Retina,4GLTE,Apple,300.0
+59,iPhone XS,Apple,Plata,Apple iOS 12,64,4,15655,12,7,Super Retina,4GLTE,Apple,300.0
+60,Galaxy S20,Samsung,Violeta,Android 10,128,6,15299,16,10,AMOLED,4G,Qualcomm,319.0
+61,Motorola Edge,Motorola,Rojo,Android 10,128,6,14999,64,25,OLED,3G/4G/GSM,Qualcomm,190.0
+62,iPhone XS,Apple,Gris Espacial,Apple iOS 12,64,4,14990,12,7,Super Retina,4GLTE,Apple,300.0
+63,iPhone XS,Apple,Plata,Apple iOS 12,64,4,14990,12,7,Super Retina,4GLTE,Apple,300.0
+64,Galaxy Note 10 Lite,Samsung,Rojo,Android 8,128,6,11999,32,32,Super AMOLED Plus,4G/4GLTE/GSM/LTE,Qualcomm,198.99999999999997
+65,Galaxy Note 10 Lite,Samsung,Plata,Android 8,128,6,11999,12,32,Super AMOLED,4G/4GLTE/GSM/LTE,Qualcomm,198.99999999999997
+66,iPhone 8,Apple,Gris,Apple iOS 11,256,4,11599,7,12,Retina,4G,Apple,150.0
+67,Galaxy Note 9,Samsung,Azul,Android 8,128,6,10990,12,8,Super AMOLED,4GLTE,Qualcomm,212.0
+68,Galaxy A71,Samsung,Azul,Android 10,128,6,9999,32,32,Super AMOLED Plus,4GLTE,Qualcomm,179.0
+69,Galaxy A71,Samsung,Plata,Android 10,128,6,9999,32,32,Super AMOLED Plus,4GLTE,Qualcomm,179.0
+70,Galaxy A71,Samsung,Negro,Android 10,128,6,9999,32,32,Super AMOLED Plus,4GLTE,Qualcomm,179.0
+71,M9 SE,Xiaomi,Azul,Android 9,128,6,8999,48,20,Super AMOLED,4GLTE,Qualcomm,195.0
+72,Galaxy A71,Samsung,Negro,Android 10,128,6,8990,32,32,Super AMOLED Plus,4GLTE,Qualcomm,179.0
+73,Galaxy A71,Samsung,Plata,Android 10,128,6,8990,32,32,Super AMOLED Plus,4GLTE,Qualcomm,179.0
+74,Galaxy A71,Samsung,Negro,Android 10,128,6,8590,32,32,Super AMOLED Plus,4GLTE,Qualcomm,179.0
+75,Galaxy A51,Samsung,Blanco,Android 8,128,4,7999,32,32,Super AMOLED,4GLTE,Qualcomm,215.0
+76,Honor 20,Huawei,Azul,Android 9,128,6,7999,48,32,IPS-LCD,4GLTE,Qualcomm,233.0
+77,Honor V10,Huawei,Negro,Android 8,128,6,7990,20,13,IPS-LCD,4GLTE,Qualcomm,216.00000000000003
+78,Moto One Zoom,Motorola,Bronce,Android 9,128,4,7490,48,25,OLED,4GLTE,Qualcomm,240.0
+79,Moto One Zoom,Motorola,Morado,Android 9,128,4,7490,48,25,OLED,4GLTE,Qualcomm,240.0
+80,Galaxy A31,Samsung,Negro,Android One,128,4,6999,48,20,AMOLED,2G/3G/LTE,Qualcomm,185.0
+81,10L T770B,TCL,Blanco,Android 9,32,6,6590,16,48,LCD,4G,Qualcomm,260.0
+82,Moto One Zoom,Motorola,Gris,Android 9,128,4,6590,48,25,OLED,4GLTE,Qualcomm,240.0
+83,Redmi Note 9,Xiaomi,Gris Medianoche,Android 10,128,4,6499,48,13,Super AMOLED,3G/4G/GSM,MediaTek,198.99999999999997
+84,Galaxy A31,Samsung,Negro,Android One,128,4,6499,48,20,AMOLED,3G/LTE,Qualcomm,185.0
+85,Galaxy A31,Samsung,Azul,Android One,128,4,6499,48,20,AMOLED,3G/LTE,Qualcomm,185.0
+86,Redmi Note 9,Xiaomi,Blanco Polar,Android 10,128,4,6499,48,13,Super AMOLED,3G/4G/GSM,MediaTek,198.99999999999997
+87,Moto One Vision,Motorola,Azul,Android 9,128,4,6499,48,25,IPS-LCD,4GLTE,Qualcomm,270.0
+88,Moto One Hyper,Motorola,Azul,Android 10,128,4,6490,32,25,IPS-LCD,4G,Qualcomm,198.0
+89,Moto One Hyper,Motorola,Violeta,Android 10,128,4,6490,32,25,IPS-LCD,4G,Qualcomm,198.0
+90,Galaxy A21s,Samsung,Negro,Android 10,64,4,5999,48,13,TFT-LCD,4GLTE,Qualcomm,192.0
+91,Galaxy A30s,Samsung,Blanco,Android One,32,4,5999,5,16,Super AMOLED,4GLTE,Qualcomm,188.0
+92,Galaxy A21s,Samsung,Rojo,Android 10,64,4,5999,48,13,TFT-LCD,4GLTE,Qualcomm,192.0
+93,Galaxy A21s,Samsung,Blanco,Android 10,64,4,5999,48,13,TFT-LCD,4GLTE,Qualcomm,192.0
+94,Honor 9X,Huawei,Azul,Android 9,128,6,5999,20,16,TFT-LCD,4GLTE,ARM,192.0
+95,Moto One Vision,Motorola,Azul,Android 9,128,4,5990,48,25,IPS-LCD,4GLTE,Qualcomm,270.0
+96,Moto One Vision,Motorola,Moka,Android 9,128,4,5990,48,25,IPS-LCD,4GLTE,Qualcomm,270.0
+97,Galaxy A30s,Samsung,Negro,Android One,32,4,5490,5,16,Super AMOLED,4GLTE,Qualcomm,188.0
+98,Galaxy A30s,Samsung,Blanco,Android One,32,4,5490,5,16,Super AMOLED,4GLTE,Qualcomm,188.0
+99,Moto One Action,Motorola,Gris,Android 9,128,4,5490,12,32,IPS-LCD,4GLTE,Qualcomm,230.0
+100,Moto One Action,Motorola,Blanco,Android 9,128,4,5490,12,32,IPS-LCD,4GLTE,Qualcomm,230.0
+101,Moto G9 Play,Motorola,Azul,Android 10,64,4,4999,48,25,TFT-LCD,4G,Qualcomm,200.0
+102,Honor 9X Lite,Huawei,Negro,Android 9,128,4,4999,48,8,TFT-LCD,4GLTE,ARM,192.0
+103,Moto G8 Power,Motorola,Gris,Android 8,32,4,4999,16,48,TFT-LCD,4GLTE,Qualcomm,188.0
+104,Moto G8 Power,Motorola,Azul,Android 8,32,4,4999,16,48,TFT-LCD,4GLTE,Qualcomm,188.0
+105,Honor 9X Lite,Huawei,Verde,Android 9,128,4,4999,48,8,TFT-LCD,4GLTE,ARM,192.0
+106,Galaxy A20s,Samsung,Azul,Android 9,32,4,4999,13,8,TFT-LCD,4GLTE,Qualcomm,185.0
+107,Moto G8 Plus,Motorola,Azul,Android 9,64,4,4990,48,25,TFT-LCD,4GLTE,Qualcomm,188.0
+108,Galaxy A11,Samsung,Negro,Android 10,48,3,4949,13,8,AMOLED,3G/LTE,Qualcomm,110.0
+109,Galaxy A11,Samsung,Blanco,Android 10,48,3,4949,13,8,AMOLED,3G/LTE,Qualcomm,110.0
+110,Galaxy A20s,Samsung,Rojo,Android 9,32,4,4769,13,8,Super AMOLED,4GLTE,Qualcomm,185.0
+111,Moto G8 Plus,Motorola,Rojo Rubí,Android 9,64,4,4590,48,25,TFT-LCD,4GLTE,Qualcomm,188.0
+112,Galaxy A11,Samsung,Negro,Android 10,32,3,4490,13,8,AMOLED,3G/LTE,Qualcomm,110.0
+113,Galaxy A20s,Samsung,Negro,Android 9,32,4,4190,13,8,Super AMOLED,4GLTE,Qualcomm,185.0
+114,Nokia 5.1 Plus,Nokia,Azul,Android 9,32,3,3999,13,8,LCD,4GLTE,MediaTek,168.99999999999997
+115,Galaxy J8,Samsung,Negro,Android 8,32,3,3999,16,16,LCD,4GLTE,Qualcomm,179.0
+116,Honor 8A,Huawei,Verde,Android 9,32,2,3999,13,8,LCD,4GLTE,MediaTek,176.00000000000003
+117,Nokia 5.1 Plus,Nokia,Negro,Android 9,32,3,3999,13,8,LCD,4GLTE,MediaTek,168.99999999999997
+118,Galaxy A11,Samsung,Blanco,Android 10,32,3,3990,13,8,AMOLED,3G/LTE,Qualcomm,110.0
+119,Moto G8 Play,Motorola,Gris,Android 9,32,2,3490,8,13,TFT-LCD,4GLTE,MediaTek,188.0
+120,Honor 8A,Huawei,Verde,Android 9,32,2,3299,8,13,LCD,4GLTE,MediaTek,176.00000000000003
+121,Moto E6 Plus,Motorola,Azul,Android 8,32,2,2990,13,8,LCD,4GLTE,Qualcomm,149.0
+122,Moto E6 Play,Motorola,Negro,Android 8,16,1,2499,13,8,IPS-LCD,4GLTE,Qualcomm,190.0
+123,Moto E6 Plus,Motorola,Azul,Android 8,32,2,2990,13,8,LCD,4GLTE,MediaTek,149.0
+124,Honor 8A,Huawei,Verde,Android 9,32,2,3299,13,8,LCD,4GLTE,MediaTek,176.00000000000003
+125,Moto E6 Play,Motorola,Azul,Android 8,16,1,2499,13,5,IPS-LCD,4GLTE,Qualcomm,190.0
+126,Moto E6 Play,Motorola,Negro,Android 8,16,1,2499,13,5,IPS-LCD,4GLTE,Qualcomm,190.0
