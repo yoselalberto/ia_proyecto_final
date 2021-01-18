@@ -1,0 +1,128 @@
+marca,producto_nombre,color,peso,pantalla,camara_trasera,camara_frontal,procesador,ram,memoria,sistema_operativo,precio,tecnologia
+samsung,galaxy z fold2,negro,0.282,amoled,12,10,qualcomm,12,256,android,46799,5g
+samsung,galaxy z fold2,bronce,0.282,amoled,12,10,qualcomm,12,256,android,46799,5g
+apple,iphone 11 pro max,verde medianoche,0.272,oled,12,12,apple,4,512,ios,33999,4glte
+apple,iphone 11 pro max,gris espacial,0.272,oled,12,12,apple,4,512,ios,33999,4glte
+apple,iphone 11 pro max,plata,0.272,oled,12,12,apple,4,512,ios,33999,4glte
+apple,iphone 11 pro max,dorado,0.272,oled,12,12,apple,4,512,ios,33999,4glte
+apple,iphone 11 pro,verde medianoche,0.252,oled,12,12,apple,4,512,ios,31279,4glte
+apple,iphone 11 pro,plata,0.252,oled,12,12,apple,4,512,ios,31279,4glte
+apple,iphone 11 pro,dorado,0.252,oled,12,12,apple,4,512,ios,31279,4glte
+apple,iphone 11 pro,gris,0.252,oled,12,12,apple,4,512,ios,31279,4glte
+samsung,galaxy note 20 ultra,bronce,0.302,amoled,12,10,qualcomm,8,256,android,30599,4g
+samsung,galaxy z flip,morado,0.183,super amoled,12,10,qualcomm,8,256,android,29699,4glte
+apple,iphone 11 pro max,plata,0.272,oled,12,12,apple,4,256,ios,28990,4glte
+apple,iphone 11 pro max,verde medianoche,0.272,oled,12,12,apple,4,256,ios,28990,4glte
+apple,iphone 11 pro max,dorado,0.272,oled,12,12,apple,4,256,ios,28990,4glte
+apple,iphone 11 pro max,gris espacial,0.272,oled,12,12,apple,4,256,ios,28990,4glte
+samsung,galaxy note 20 ultra,bronce,0.312,amoled,12,10,qualcomm,8,256,android,25990,4g
+samsung,galaxy note 20 ultra,negro,0.312,amoled,12,10,qualcomm,8,256,android,25990,4g
+apple,iphone 11 pro,verde medianoche,0.252,oled,12,12,apple,4,256,ios,25159,4glte
+apple,iphone 11 pro,dorado,0.252,oled,12,12,apple,4,256,ios,24990,4glte
+apple,iphone 11 pro,gris,0.252,oled,12,12,apple,4,256,ios,24990,4glte
+apple,iphone 11 pro,verde medianoche,0.252,oled,12,12,apple,4,256,ios,24990,4glte
+apple,iphone 11 pro,plata,0.252,oled,12,12,apple,4,256,ios,24490,4glte
+apple,iphone xs max,dorado,0.308,super retina,12,7,apple,4,512,ios,24303,4glte
+apple,iphone xs max,plata,0.308,super retina,12,7,apple,4,512,ios,24303,4glte
+samsung,galaxy note 20 mystic,bronce,0.312,amoled,12,10,qualcomm,8,256,android,24299,4g
+apple,iphone 11 pro,plata,0.252,oled,12,12,apple,4,64,ios,23799,4glte
+apple,iphone 11 pro,verde medianoche,0.252,oled,12,12,apple,4,64,ios,23799,4glte
+apple,iphone 11 pro,dorado,0.252,oled,12,12,apple,4,64,ios,23799,4glte
+samsung,galaxy note 20 mystic,bronce,0.312,amoled,12,10,qualcomm,8,256,android,22990,4g
+apple,iphone 11 pro,plata,0.252,oled,12,12,apple,4,256,ios,22990,4glte
+apple,iphone 11 pro,space gray,0.252,oled,12,12,apple,4,256,ios,22990,4glte
+samsung,galaxy s20 plus,gris,0.18600000000000003,amoled,10,10,qualcomm,8,128,android,22499,4g
+samsung,galaxy s20 plus,azul,0.18600000000000003,amoled,10,10,qualcomm,8,128,android,22499,4g
+samsung,galaxy s20 plus,plata,0.18600000000000003,amoled,10,10,qualcomm,8,128,android,22499,4g
+apple,iphone xs,dorado,0.308,super retina,12,7,apple,4,512,ios,22247,4glte
+apple,iphone xs,gris espacial,0.308,super retina,12,7,apple,4,512,ios,22247,4glte
+apple,iphone xs,plata,0.308,super retina,12,7,apple,4,512,ios,22247,4glte
+apple,iphone 11 pro,verde medianoche,0.252,oled,12,12,apple,4,64,ios,22099,4glte
+samsung,galaxy note 20 mystic,gris,0.312,amoled,12,10,qualcomm,8,256,android,20990,4g
+samsung,galaxy note 20 mystic,gris,0.332,amoled,12,10,qualcomm,8,256,android,19990,4g
+samsung,galaxy s20 plus,azul,0.18600000000000003,amoled,10,10,qualcomm,8,256,android,19990,4g
+samsung,galaxy note 20 mystic,verde,0.312,amoled,12,10,qualcomm,8,256,android,19990,4g
+samsung,galaxy s20 plus,gris,0.18600000000000003,amoled,10,10,qualcomm,8,128,android,19990,4g
+samsung,galaxy note 20 mystic,gris,0.312,amoled,12,10,qualcomm,8,256,android,19990,4g
+apple,iphone 11 pro,plata,0.252,oled,12,12,apple,4,64,ios,19990,4glte
+apple,iphone xs max,gris espacial,0.308,super retina,12,7,apple,4,256,ios,17990,4glte
+apple,iphone xs,oro,0.308,super retina,12,7,apple,4,64,ios,17990,4glte
+apple,iphone xs max,plata,0.308,super retina,12,7,apple,4,256,ios,17990,4glte
+apple,iphone xs,dorado,0.308,super retina,12,7,apple,4,256,ios,17599,4glte
+apple,iphone xs,negro,0.308,super retina,12,7,apple,4,256,ios,17599,4glte
+samsung,galaxy note 10,plata,0.312,amoled,16,10,samsung,12,256,android,16999,4g
+apple,iphone xs,gris espacial,0.308,super retina,12,7,apple,4,256,ios,16990,4glte
+apple,iphone xs,plata,0.308,super retina,12,7,apple,4,256,ios,16990,4glte
+apple,iphone xs max,plata,0.308,super retina,12,7,apple,4,64,ios,15990,4glte
+samsung,galaxy s20,gris,0.18600000000000003,amoled,16,10,qualcomm,8,128,android,15990,5g
+apple,iphone xs max,gris,0.308,super retina,12,7,apple,4,64,ios,15990,4glte
+apple,iphone xs max,dorado,0.308,super retina,12,7,apple,4,64,ios,15990,4glte
+apple,iphone xs,gris,0.3,super retina,12,7,apple,4,64,ios,15655,4glte
+apple,iphone xs,plata,0.3,super retina,12,7,apple,4,64,ios,15655,4glte
+samsung,galaxy s20,violeta,0.319,amoled,16,10,qualcomm,6,128,android,15299,4g
+motorola,motorola edge,rojo,0.19,oled,64,25,qualcomm,6,128,android,14999,4g
+apple,iphone xs,gris espacial,0.3,super retina,12,7,apple,4,64,ios,14990,4glte
+apple,iphone xs,plata,0.3,super retina,12,7,apple,4,64,ios,14990,4glte
+samsung,galaxy note 10 lite,rojo,0.19899999999999998,super amoled plus,32,32,qualcomm,6,128,android,11999,4glte
+samsung,galaxy note 10 lite,plata,0.19899999999999998,super amoled,12,32,qualcomm,6,128,android,11999,4glte
+apple,iphone 8,gris,0.15,retina,7,12,apple,4,256,ios,11599,4g
+samsung,galaxy note 9,azul,0.212,super amoled,12,8,qualcomm,6,128,android,10990,4glte
+samsung,galaxy a71,azul,0.179,super amoled plus,32,32,qualcomm,6,128,android,9999,4glte
+samsung,galaxy a71,plata,0.179,super amoled plus,32,32,qualcomm,6,128,android,9999,4glte
+samsung,galaxy a71,negro,0.179,super amoled plus,32,32,qualcomm,6,128,android,9999,4glte
+xiaomi,m9 se,azul,0.195,super amoled,48,20,qualcomm,6,128,android,8999,4glte
+samsung,galaxy a71,negro,0.179,super amoled plus,32,32,qualcomm,6,128,android,8990,4glte
+samsung,galaxy a71,plata,0.179,super amoled plus,32,32,qualcomm,6,128,android,8990,4glte
+samsung,galaxy a71,negro,0.179,super amoled plus,32,32,qualcomm,6,128,android,8590,4glte
+samsung,galaxy a51,blanco,0.215,super amoled,32,32,qualcomm,4,128,android,7999,4glte
+huawei,honor 20,azul,0.233,ips-lcd,48,32,qualcomm,6,128,android,7999,4glte
+huawei,honor v10,negro,0.21600000000000003,ips-lcd,20,13,qualcomm,6,128,android,7990,4glte
+motorola,moto one zoom,bronce,0.24,oled,48,25,qualcomm,4,128,android,7490,4glte
+motorola,moto one zoom,morado,0.24,oled,48,25,qualcomm,4,128,android,7490,4glte
+samsung,galaxy a31,negro,0.185,amoled,48,20,qualcomm,4,128,android,6999,4glte
+tcl,10l t770b,blanco,0.26,lcd,16,48,qualcomm,6,32,android,6590,4g
+motorola,moto one zoom,gris,0.24,oled,48,25,qualcomm,4,128,android,6590,4glte
+xiaomi,redmi note 9,gris medianoche,0.19899999999999998,super amoled,48,13,mediatek,4,128,android,6499,4g
+samsung,galaxy a31,negro,0.185,amoled,48,20,qualcomm,4,128,android,6499,4glte
+samsung,galaxy a31,azul,0.185,amoled,48,20,qualcomm,4,128,android,6499,4glte
+xiaomi,redmi note 9,blanco polar,0.19899999999999998,super amoled,48,13,mediatek,4,128,android,6499,4g
+motorola,moto one vision,azul,0.27,ips-lcd,48,25,qualcomm,4,128,android,6499,4glte
+motorola,moto one hyper,azul,0.198,ips-lcd,32,25,qualcomm,4,128,android,6490,4g
+motorola,moto one hyper,violeta,0.198,ips-lcd,32,25,qualcomm,4,128,android,6490,4g
+samsung,galaxy a21s,negro,0.192,tft-lcd,48,13,qualcomm,4,64,android,5999,4glte
+samsung,galaxy a30s,blanco,0.188,super amoled,5,16,qualcomm,4,32,android,5999,4glte
+samsung,galaxy a21s,rojo,0.192,tft-lcd,48,13,qualcomm,4,64,android,5999,4glte
+samsung,galaxy a21s,blanco,0.192,tft-lcd,48,13,qualcomm,4,64,android,5999,4glte
+huawei,honor 9x,azul,0.192,tft-lcd,20,16,arm,6,128,android,5999,4glte
+motorola,moto one vision,azul,0.27,ips-lcd,48,25,qualcomm,4,128,android,5990,4glte
+motorola,moto one vision,moka,0.27,ips-lcd,48,25,qualcomm,4,128,android,5990,4glte
+samsung,galaxy a30s,negro,0.188,super amoled,5,16,qualcomm,4,32,android,5490,4glte
+samsung,galaxy a30s,blanco,0.188,super amoled,5,16,qualcomm,4,32,android,5490,4glte
+motorola,moto one action,gris,0.23,ips-lcd,12,32,qualcomm,4,128,android,5490,4glte
+motorola,moto one action,blanco,0.23,ips-lcd,12,32,qualcomm,4,128,android,5490,4glte
+motorola,moto g9 play,azul,0.2,tft-lcd,48,25,qualcomm,4,64,android,4999,4g
+huawei,honor 9x lite,negro,0.192,tft-lcd,48,8,arm,4,128,android,4999,4glte
+motorola,moto g8 power,gris,0.188,tft-lcd,16,48,qualcomm,4,32,android,4999,4glte
+motorola,moto g8 power,azul,0.188,tft-lcd,16,48,qualcomm,4,32,android,4999,4glte
+huawei,honor 9x lite,verde,0.192,tft-lcd,48,8,arm,4,128,android,4999,4glte
+samsung,galaxy a20s,azul,0.185,tft-lcd,13,8,qualcomm,4,32,android,4999,4glte
+motorola,moto g8 plus,azul,0.188,tft-lcd,48,25,qualcomm,4,64,android,4990,4glte
+samsung,galaxy a11,negro,0.11,amoled,13,8,qualcomm,3,48,android,4949,4glte
+samsung,galaxy a11,blanco,0.11,amoled,13,8,qualcomm,3,48,android,4949,4glte
+samsung,galaxy a20s,rojo,0.185,super amoled,13,8,qualcomm,4,32,android,4769,4glte
+motorola,moto g8 plus,rojo rubí,0.188,tft-lcd,48,25,qualcomm,4,64,android,4590,4glte
+samsung,galaxy a11,negro,0.11,amoled,13,8,qualcomm,3,32,android,4490,4glte
+samsung,galaxy a20s,negro,0.185,super amoled,13,8,qualcomm,4,32,android,4190,4glte
+nokia,nokia 5.1 plus,azul,0.16899999999999998,lcd,13,8,mediatek,3,32,android,3999,4glte
+samsung,galaxy j8,negro,0.179,lcd,16,16,qualcomm,3,32,android,3999,4glte
+huawei,honor 8a,verde,0.17600000000000002,lcd,13,8,mediatek,2,32,android,3999,4glte
+nokia,nokia 5.1 plus,negro,0.16899999999999998,lcd,13,8,mediatek,3,32,android,3999,4glte
+samsung,galaxy a11,blanco,0.11,amoled,13,8,qualcomm,3,32,android,3990,4glte
+motorola,moto g8 play,gris,0.188,tft-lcd,8,13,mediatek,2,32,android,3490,4glte
+huawei,honor 8a,verde,0.17600000000000002,lcd,8,13,mediatek,2,32,android,3299,4glte
+motorola,moto e6 plus,azul,0.149,lcd,13,8,qualcomm,2,32,android,2990,4glte
+motorola,moto e6 play,negro,0.19,ips-lcd,13,8,qualcomm,1,16,android,2499,4glte
+motorola,moto e6 plus,azul,0.149,lcd,13,8,mediatek,2,32,android,2990,4glte
+huawei,honor 8a,verde,0.17600000000000002,lcd,13,8,mediatek,2,32,android,3299,4glte
+motorola,moto e6 play,azul,0.19,ips-lcd,13,5,qualcomm,1,16,android,2499,4glte
+motorola,moto e6 play,negro,0.19,ips-lcd,13,5,qualcomm,1,16,android,2499,4glte
